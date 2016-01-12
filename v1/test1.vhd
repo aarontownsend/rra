@@ -32,7 +32,7 @@ architecture rtl of test1 is
   signal servo5			 : integer;
   signal servo5inv		 : integer; --Servo5 but inverted
   
-  signal servo3			 : integer;
+  signal servo3			 : integer; 
   signal servo3inv		 : integer;
   
   signal servo1			 : integer;
