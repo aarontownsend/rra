@@ -36,7 +36,7 @@ architecture rtl of test1 is
   signal servo3inv		 : integer;
   
   signal servo1			 : integer;
-  signal servo1inv		 : integer;
+  signal servo1inv		 : integer; 
   
   signal keypad          : std_logic_vector(15 downto 0);
   
